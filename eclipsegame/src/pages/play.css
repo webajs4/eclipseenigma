@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Lily+Script+One&display=swap');
+
+.thala{
+    color: #FFF;
+text-align: center;
+font-family: Irish Grover;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+align-items: center;
+}
+.vaal{
+    color: #FFF;
+text-align: center;
+font-family: Irish Grover;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+align-items: center;
+width: 30%;
+
+}
+.ecl{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    text-align: center;
+}
