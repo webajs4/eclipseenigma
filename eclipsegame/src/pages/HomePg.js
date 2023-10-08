@@ -10,10 +10,10 @@ function HomePg() {
         <img src={RockPadam} alt="hellorocket" />
         <div className='ezhuth'>
           <h2>Eclipse Engima</h2>
-          <p>Lorem Ipsum is simply dummy text of the<br></br> printing and typesetting industry</p>
+          <p>Explore the Cosmos : Conquer Solar and <br></br> Lunar Mysteries!</p>
           {/* Use Link component to navigate to the "Play" page */}
           <Link to="/play"><button className='player'>Play Now</button></Link>
-          <button className='player'>About Us</button>
+          <Link to="/abt"><button className='player'>About Us</button></Link>
         </div>
       </div>
     </div>

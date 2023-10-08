@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Lily+Script+One&family=Nunito&display=swap');
+
+.abtt{
+    color: #FFF;
+font-family: Irish Grover;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 100px;
+}
+.wf{
+    color: #FFF;
+font-family: Irish Grover;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 5px;
+}
+.fpara{
+    color: #FFF;
+text-align: center;
+font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.spara{
+    color: #FFF;
+text-align: center;
+font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 20px;
+}
